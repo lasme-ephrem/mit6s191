@@ -1,2 +1,9 @@
-# MIT 6.S191
-MIT's introductory course on deep learning methods with applications in computer vision, art, game play, medicine, language, robotics, and more ! (Edition 2022)
+## MIT 6.S191 : Lecture 1 
+
+* This fisrt lecture talk about foundamentals notions about this subfield which revolutionned artificial intelligence : the Deep Learning.
+
+* Here is the <a href : "">slides</a> of lecture.
+
+* This lecture is also available in YouTube video.
+
+Copyright : MIT.
